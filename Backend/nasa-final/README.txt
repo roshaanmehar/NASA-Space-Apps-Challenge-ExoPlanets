@@ -1,0 +1,1 @@
+This only fetches all the planets from the database and nothing else. the controller in it that is.

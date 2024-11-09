@@ -1,0 +1,1 @@
+This is an implementation of the full stack appliation that we were trying to create and in this planets folder i tried to integrate that with the frontend but i couldnt complete it.

@@ -1,0 +1,3 @@
+This project is free software: you can redistribute it and/or modify it. 
+
+What it does is it connects to a mongo database connection and fetches all the planets on that database. The data was taken from nasa's database on exoplanets and was then filtered out. We removed any and all planets that had attributes that could not be processed and then calculated a habitibility index based on various factors of the planet and then on the basis of that data we displayed it on our front end. But as we ran out of time then we could not integrate the backend with the frontend. The backend and frontend and the algorithm work fine though. 
